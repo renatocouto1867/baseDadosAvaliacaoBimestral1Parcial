@@ -1,33 +1,7 @@
 {
-    "dados": [
-        {
-            "deuses": [
-                "Tupã",
-                "Jaci",
-                "Guaraci",
-                "Anhangá",
-                "Yorixiriamori",
-                "Wanadi"
-            ]
-        },
-        {
-            "simbolos": [
-                "trovão",
-                "lua",
-                "sol",
-                "mata",
-                "encanto",
-                "bondade"
-            ]
-        },
-        {
-            "valores": [
-                10,
-                20,
-                30,
-                40,
-                50
-            ]
-        }
-    ]
+  "dados": {
+    "deuses": ["Tupã", "Jaci", "Guaraci", "Anhangá", "Yorixiriamori", "Wanadi"],
+    "simbolos": ["trovão", "lua", "sol", "mata", "encanto", "bondade"],
+    "valores": [10, 20, 30, 40, 50]
+  }
 }
